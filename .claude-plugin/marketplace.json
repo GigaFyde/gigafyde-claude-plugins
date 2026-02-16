@@ -1,5 +1,5 @@
 {
-  "name": "marketplace",
+  "name": "gigafyde-claude-plugins",
   "owner": {
     "name": "gigafyde"
   },
@@ -7,7 +7,10 @@
     {
       "name": "project-orchestrator",
       "version": "1.5.0",
-      "source": "gigafyde/project-orchestrator",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GigaFyde/project-orchestrator.git"
+      },
       "description": "Ship multi-service features without losing context. Orchestrates parallel agent teams from brainstorming through wave-based implementation and dual-model code review."
     }
   ]
