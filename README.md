@@ -1,4 +1,4 @@
-# GigaFyde Claude Marketplace
+# GigaFyde Claude Plugins
 
 A plugin marketplace for Claude Code. Browse available plugins and install them directly.
 
@@ -11,8 +11,8 @@ Ship multi-service features without losing context. Orchestrates parallel agent 
 **Install:**
 
 ```
-/plugin marketplace add gigafyde/claude-marketplace
-/plugin install project-orchestrator@claude-marketplace
+/plugin marketplace add gigafyde/gigafyde-claude-plugins
+/plugin install project-orchestrator@gigafyde-claude-plugins
 ```
 
 **Features:**
@@ -30,7 +30,7 @@ Ship multi-service features without losing context. Orchestrates parallel agent 
 Run inside Claude Code:
 
 ```
-/plugin marketplace add gigafyde/claude-marketplace
+/plugin marketplace add gigafyde/gigafyde-claude-plugins
 ```
 
 Then browse and install any plugin listed above.
