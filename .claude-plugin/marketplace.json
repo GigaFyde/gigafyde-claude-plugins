@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "project-orchestrator",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "source": "gigafyde/project-orchestrator",
       "description": "Ship multi-service features without losing context. Orchestrates parallel agent teams from brainstorming through wave-based implementation and dual-model code review."
     }
