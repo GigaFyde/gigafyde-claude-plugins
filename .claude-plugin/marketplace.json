@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "project-orchestrator",
-      "version": "1.5.7",
+      "version": "1.6.0",
       "source": {
         "source": "url",
         "url": "https://github.com/GigaFyde/project-orchestrator.git"
